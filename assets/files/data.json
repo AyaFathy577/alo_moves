@@ -1,0 +1,48 @@
+{
+  "series": [
+    {
+      "id": "1",
+      "name": "balanced mind",
+      "image": "https://www.dailypioneer.com/uploads/2019/story/images/big/ease-in-life-calls-for-balanced-mind-2019-02-24.jpg",
+      "coaches": [
+        {
+          "user": {
+            "id": "12",
+            "name": "Jash Kramer",
+            "image": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_481292845_77896.jpg"
+          },
+          "overview": "This random string generator creates a bunch of random strings based on the configuration parameters that you specified."
+        }
+      ],
+      "description": "This random string generator creates a bunch of random strings based on the configuration parameters that you specified.\nThis random string generator creates a bunch of random strings based on the configuration parameters that you specified.",
+      "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "videos_number": 5,
+      "total_time": "03 hrs 28 mins",
+      "difficulty": "",
+      "intensity": "",
+      "classes": [
+        {
+          "name": "How to approach this series",
+          "video_url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "duration": "11:05",
+          "description": "This random string generator creates a bunch of random strings based on the configuration parameters."
+        }
+      ],
+      "posts": [
+        {
+          "user": {
+            "id": "512",
+            "name": "Dom Kramer",
+            "image": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_481292845_77896.jpg"
+          },
+          "time": "3 hours ago",
+          "body": "This random string generator creates a bunch of random strings based on the configuration parameters.",
+          "comments": [
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
