@@ -10,3 +10,9 @@ class UpdateSeries extends SeriesState {
 
   UpdateSeries(this.series);
 }
+
+class ShowSeries extends SeriesState {
+  final SeriesModel seriesModel;
+
+  ShowSeries(this.seriesModel);
+}
